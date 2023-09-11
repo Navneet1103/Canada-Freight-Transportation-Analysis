@@ -9,8 +9,8 @@ This repository contains a Power BI report that analyzes the freight transportat
 
 The data sources used for this project are:
 
-- [Road Network File]: This dataset provides the geographic information of the road network in Canada, including the road name, type, length, and direction.
-- [Canadian Freight Analysis Framework]: This dataset provides the information of the freight flows in Canada by mode, province, commodity, and value for the years 2012 to 2017.
+- This dataset provides the geographic information of the road network in Canada, including the road name, type, length, and direction.
+- This dataset provides the information of the freight flows in Canada by mode, province, commodity, and value for the years 2012 to 2017.
 
 ## Data Preparation
 
