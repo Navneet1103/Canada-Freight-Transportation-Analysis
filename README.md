@@ -2,6 +2,9 @@
 
 This repository contains a Power BI report that analyzes the freight transportation patterns in Canada using official datasets from Statistics Canada.
 
+[![text](https://media.licdn.com/dms/image/D5622AQGj51DxKHrAzg/feedshare-shrink_2048_1536/0/1691855927200?e=1697068800&v=beta&t=cUXf8paeAYOXWn4-kE19S25x62p6tksho4tTwVdSd90)
+
+
 ## Data Sources
 
 The data sources used for this project are:
